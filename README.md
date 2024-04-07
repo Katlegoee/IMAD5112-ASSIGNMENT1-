@@ -1,28 +1,30 @@
 # IMAD5112-ASSIGNMENT1-<br/>
 ![image](https://github.com/Katlegoee/IMAD5112-ASSIGNMENT1-/assets/162302242/43d0776b-ea6b-4d4b-883d-aa74ab35fa22)<br/>
-# 1. Introduction:
+
+# 1. App's Introduction:
 The purpose of this comprehensive report is to provide an in-depth overview of The History App. The report will delve into the app's purpose, design considerations, and the utilization of GitHub and GitHub Actions in the development process. 
 
 # 2. Purpose of the App:
 The primary objective of this app is to take a person's age as input and then match the age to the age of different people in history when they passed away and to create a more fun, and interesting learning/experience environment for students to engage in, in my instance I used South African historic figures that have had I huge impact in South Africa for example Nelson Rolihlahla Mandela. The app aims to address this need by providing a user-friendly platform for users to compare users' ages to famous figures from history. 
 
-# 💻 3. Design Considerations: 
-<div style="width: 10%; height: 10%">
+# 3. Design Considerations: 
+- User-Centric Design: The history app was designed with a focus on simplicity and intuitiveness to ensure a smooth user experience. Features were prioritized based on user needs. When    you go to the app the first thing to see is;
+  <div style="width: 10%; height: 10%">
   ![Screenshot_20240407_180411](https://github.com/Katlegoee/IMAD5112-ASSIGNMENT1-/assets/162302242/c416197c-7c99-4f67-a5e7-43551d0de554)
 </div>
-
-- User-Centric Design: The history app was designed with a focus on simplicity and intuitiveness to ensure a smooth user experience. Features were prioritized based on user needs. When     you go to the app the first thing to see is; 
 
 1. User-Input: Its where the user inputs a number/age for any historic figure.Bare in mind that this user input does not take any words/letters it only accounts for digits only. 
 2. Generate history button: its purpose is to generate results based on the users input, if the user enters a number/age, it must match that of a historic figure that - is in the 
    database else or else it’s to going to let you know that there is 	no historic figure found around the age the user entered. 
-   Or if the user enters nothing on the user input when you click this button, an error is going to occur. 
-3. Clear Button: Lastly is the clear button, by the name of it you can already tell. 
+   Or if the user enters nothing on the user input when you click this button, an error is going to occur.
+4. Clear Button: Lastly is the clear button, by the name of it you can already tell. 
    Its purpose is to clear anything the user has entered or clear any output the user has entered on the input. 
  - Scalability:
-The app was designed to accommodate students and to inspire young minds by using technology for educational purposes, while making it fun for the students, with scalability in mind for both the user interface and backend infrastructure. 
+The app was designed to accommodate students and to inspire young minds by using technology for educational purposes, while making it fun for the students, with scalability in mind for both the user interface and backend infrastructure.
+
  - Security:
-Robust security measures were implemented to protect sensitive user data, including encryption of data in transit and at rest, role-based access control, and regular security audits. 
+Robust security measures were implemented to protect sensitive user data, including encryption of data in transit and at rest, role-based access control, and regular security audits.
+
 - Cross-Platform Compatibility:
 The app was developed to be compatible with only one device and operating systems, which includes Android platforms. 
  
@@ -52,11 +54,9 @@ In conclusion, my history app represents a comprehensive solution for students t
 GitHub Documentation: [link]https://github.com/marketplace/actions/automated-build-android-app-with-github-action <br/>
 GitHub Actions Documentation: [link]https://github.com/IMAD5112/Github-actions/blob/main/.github/workflows/build.yml<br/>
 Github Badges visit the live site at[link] https://ileriayo.github.io/markdown-badges/
-# To use a badge:
-- Via GitHub<br/>
-- Press Ctrl + f on your keyboard, to bring out the search modal.<br/>
-- Enter the name of the badge you need<br/>
-- Copy the appropriate ![Name](link) element and paste it in your Markdown file (e.g. README.md)<br/>
+
+# 7. Video Demonstration:
+
 
 
 
