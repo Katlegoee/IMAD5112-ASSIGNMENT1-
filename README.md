@@ -2,12 +2,13 @@
 ![image](https://github.com/Katlegoee/IMAD5112-ASSIGNMENT1-/assets/162302242/43d0776b-ea6b-4d4b-883d-aa74ab35fa22)<br/>
 
 # 1. App's Introduction:
-The purpose of this comprehensive report is to provide an in-depth overview of The History App. The report will delve into the app's purpose, design considerations, and the utilization of GitHub and GitHub Actions in the development process. 
+The purpose of this comprehensive report is to provide an in-depth overview of my history app. The report will delve into the app's purpose, design considerations, and the utilization of GitHub and GitHub Actions in the development process. 
 
 # 2. Purpose of the App:
 The primary objective of this app is to take a person's age as input and then match the age to the age of different people in history when they passed away and to create a more fun, and interesting learning/experience environment for students to engage in, in my instance I used South African historic figures that have had I huge impact in South Africa for example Nelson Rolihlahla Mandela. The app aims to address this need by providing a user-friendly platform for users to compare users' ages to famous figures from history. 
 
 # 3. Design Considerations: 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 - User-Centric Design: The history app was designed with a focus on simplicity and intuitiveness to ensure a smooth user experience. Features were prioritized based on user needs. When    you go to the app the first thing to see is;
   <div style="width: 10%; height: 10%">
   ![Screenshot_20240407_180411](https://github.com/Katlegoee/IMAD5112-ASSIGNMENT1-/assets/162302242/c416197c-7c99-4f67-a5e7-43551d0de554)
